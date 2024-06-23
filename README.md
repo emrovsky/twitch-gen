@@ -32,6 +32,7 @@ Litecoin : `LVnQjyPkBDmKwxFhZ12mb4msnZheWU6mex`
 
 ## Contact
 Discord : `@switch3301`  / `@emrovsky`
+
 Telegram : https://t.me/switch3301 / https://t.me/Emrovsky
 
 ## ⚠️ Disclaimer
