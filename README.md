@@ -28,7 +28,7 @@ https://github.com/emrovsky/twitch-gen/assets/127310452/a5d03a58-d3aa-4884-b1c7-
 
 
 ## DONATE
-Litecoin : `LhKwvuMYwua2bTn7B38W5p3KrVWCgEGUgS` 
+Litecoin : `LVnQjyPkBDmKwxFhZ12mb4msnZheWU6mex` 
 
 ## Contact
 Discord : `@switch3301`  / `@emrovsky`
