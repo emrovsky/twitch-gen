@@ -1,0 +1,19 @@
+threads: 10
+
+salamoonder_api_key: "sr-eemrovsky-xxxxxxx"
+
+account_settings:
+  verify_email: true
+
+humanize_account:
+  avatar: true
+  banner: true
+  video_player_banner: true
+  bio: true
+
+social_media:
+  youtube: true
+  twitter: true
+  reddit: true
+  onlyfans: true
+  # add what u want :)
