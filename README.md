@@ -22,7 +22,7 @@ Also has customized humanization options that can be toggled on or off and can b
 - Open config.yaml and enter `salamoonder key` , put proxies in `proxy.txt` , enter specified `threads`
 - Run the python file with `python main.py`
 
-## 👾 Features
+## ✍️ Features
 - Fully requests based creator
 - Solving Kasada using salamoonder api
 - Verifies email and saves account
