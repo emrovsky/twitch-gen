@@ -2,6 +2,7 @@
 
 
 <a href="https://discord.gg/switchuwu"><img src="https://discordapp.com/api/guilds/1241323594567520337/widget.png?style=banner2"></a>
+
 ❗️  ^^ ** Buy proxies from the above server for best output  ** ^^❗️
 
 This is a requests based script written to generate twitch accounts in bulk with ease.
