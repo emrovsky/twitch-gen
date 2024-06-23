@@ -45,4 +45,4 @@ Discord : `@switch3301`  / `@emrovsky`
 Telegram : https://t.me/switch3301 / https://t.me/Emrovsky
 
 ## ⚠️ Disclaimer
-This github repo is for EDUCATIONAL PURPOSES ONLY. I am NOT under any responsibility if a problem occurs.
+This GitHub repository is intended solely for educational purposes. The author assumes no responsibility for any issues or damages that may arise from its use.
