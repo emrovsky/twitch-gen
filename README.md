@@ -3,7 +3,10 @@
 
 <a href="https://discord.gg/switchuwu"><img src="https://discordapp.com/api/guilds/1241323594567520337/widget.png?style=banner2"></a>
 
-❗️  ^^ ** Buy proxies from the above server for best output  ** ^^❗️
+❗️  ^^ Buy proxies from the above server for best output  ^^❗️
+
+
+## Info
 
 This is a requests based script written to generate twitch accounts in bulk with ease.
 Also has customized humanization options that can be toggled on or off and can be edited.
